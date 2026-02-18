@@ -1,10 +1,13 @@
-*TUGAS 1 - PENGEMBANGAN APLIKASI MOBILE RA*
+# 📱 Tugas 1 - Pemrograman Aplikasi Mobile
 
-Nama : Andini Rahma Kemala
-NIM : 123140067
+## 👤 Identitas Mahasiswa
+**Nama:** Andini Rahma Kemala  
+**NIM:** 123140067  
 
-*SCREENSHOT APLIKASI*
-<img width="330" height="717" alt="Screenshot 2026-02-18 155814" src="https://github.com/user-attachments/assets/863eb999-8a02-4794-a132-55b408cdf27c" />
+
+# SCREENSHOT APLIKASI
+
+## <img width="330" height="717" alt="Screenshot 2026-02-18 155814" src="https://github.com/user-attachments/assets/863eb999-8a02-4794-a132-55b408cdf27c" />
 
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
